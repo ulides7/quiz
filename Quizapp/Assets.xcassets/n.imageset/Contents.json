@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "1647956598_562009_1647956745_noticia_normal_recorte1.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
